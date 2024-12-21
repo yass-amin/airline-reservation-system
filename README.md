@@ -1,5 +1,22 @@
 "# airline-reservation-system" 
 
+Features
+
+User Account Management: Users can create and manage their accounts.
+
+Ticket Booking: Users can book both one-way and round-trip tickets.
+
+Mobile Responsiveness: Webpages are fully responsive for mobile devices.
+
+Ticket Management: Users can cancel booked tickets and view their booking history (confirmed and canceled tickets).
+
+Downloadable Tickets: Tickets can be downloaded as PDF documents.
+
+Dynamic Search: Includes an "As-you-type" search feature for efficient flight search.
+
+Files & Directories
+
+
 
 
 INSTALLIATION 
