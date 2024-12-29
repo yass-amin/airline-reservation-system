@@ -1,34 +1,46 @@
-"# airline-reservation-system" 
+ Project Title and Overview
+Title: Clearly name your project (e.g., "Airline Reservation System").
+Overview: Provide a brief description of the project.
+Example:
+The Airline Reservation System is a web-based platform that allows users to book flights, manage bookings, and search for flights based on various criteria. Built using Django for the backend and HTML/CSS/JavaScript for the frontend, it provides a seamless experience for both users and administrators.
 
-Features
+2. Features
+List the main functionalities of the system.
+User registration and login.
+Flight search and booking.
+Seat selection and booking confirmation.
+Admin dashboard for flight management.
+Reporting and analytics for admins.
+3. Technologies Used
+Backend: Django, Python.
+Frontend: HTML, CSS, JavaScript.
+Database: SQL or PostgreSQL.
+Tools: GitHub, GitHub Actions, Agile methodologies.
+ Project Title and Overview
+Title: Clearly name your project (e.g., "Airline Reservation System").
+Overview: Provide a brief description of the project.
+Example:
+The Airline Reservation System is a web-based platform that allows users to book flights, manage bookings, and search for flights based on various criteria. Built using Django for the backend and HTML/CSS/JavaScript for the frontend, it provides a seamless experience for both users and administrators.
 
-User Account Management: Users can create and manage their accounts.
-
-Ticket Booking: Users can book both one-way and round-trip tickets.
-
-Mobile Responsiveness: Webpages are fully responsive for mobile devices.
-
-Ticket Management: Users can cancel booked tickets and view their booking history (confirmed and canceled tickets).
-
-Downloadable Tickets: Tickets can be downloaded as PDF documents.
-
-Dynamic Search: Includes an "As-you-type" search feature for efficient flight search.
-
-Files & Directories
-
-
-
-
-INSTALLIATION 
-
-Install Python3.9 from here manually.
-
-Install project dependencies by running py -m pip install -r requirements.txt.
-
-Run the commands py manage.py makemigrations and py manage.py migrate in the project directory to make and apply migrations.
-
-Create superuser with py manage.py createsuperuser. This step is optional.
-
-Run the command py manage.py runserver to run the web server.
-
-Open web browser and goto 127.0.0.1:8000 url to start using the web application.
+2. Features
+List the main functionalities of the system.
+User registration and login.
+Flight search and booking.
+Seat selection and booking confirmation.
+Admin dashboard for flight management.
+Reporting and analytics for admins.
+3. Technologies Used
+Backend: Django, Python.
+Frontend: HTML, CSS, JavaScript.
+Tools: GitHub, GitHub Actions, Agile methodologies.
+7. Agile Documentation
+Link to Agile artifacts like:
+User stories.
+Scrum summaries.
+Sprint retrospectives.
+Mention that detailed documentation is available in the docs/ folder or GitHub Wiki.
+List team members and their roles:
+Yassin Amin: Backend Developer.
+Mohamed Nassar: diagrams.
+Kareem Mahmoud: .Frontend Developer
+Mohamed Salama: Testing and Documentation.
